@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url(https://github.com/jdcampolargo/ThisGalaxyDoesExist/blob/main/img/2.jpg);
+    background-image: url(../images/background.jpg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
