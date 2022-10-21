@@ -11,3 +11,4 @@ window.onload = function() {
 
     document.body.style.backgroundImage = "url(" + imgs[random] + ")";
 }
+
