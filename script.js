@@ -10,5 +10,8 @@ window.onload = function() {
     const random = Math.floor(Math.random() * 3) + 1;
 
     document.body.style.backgroundImage = "url(" + imgs[random] + ")";
+    // if image displayed, do not repeat it
+    imgs.splice(random, 1);
+    
 }
 
